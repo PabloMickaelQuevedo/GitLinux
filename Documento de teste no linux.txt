@@ -1,1 +1,2 @@
 Testando o Git no Zorin OS
+Para enviar um repositório do terminal para o GitHub devemos cadastrar uma chave SSH. 
